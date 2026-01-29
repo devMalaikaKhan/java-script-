@@ -5,3 +5,4 @@ var convertedNum =Number(num);
 console.log(caseQty + convertedNum);
 let myVariable;
 myVariable = 114+ 9;
+console.log(myVariable);
